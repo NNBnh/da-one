@@ -1,80 +1,21 @@
-Baseone Dark
-Baseone Light
-Baseone Black
-Baseone Cold
-Baseone Warm
-Baseone Paper
-
 ### Mono
 
-#### Dark
-
-|           Name | Hex       |
-| -------------: | --------- |
-|     Foreground | `#d8d8d8` |
-|     Background | `#181818` |
-|          Black | `#282828` |
-|   Bright Black | `#585858` |
-|          White | `#b8b8b8` |
-|   Bright White | `#f8f8f8` |
-
-#### Light
-
-|           Name | Hex       |
-| -------------: | --------- |
-|     Foreground | `#181818` |
-|     Background | `#ffffff` |
-|          Black | `#e8e8e8` |
-|   Bright Black | `#b8b8b8` |
-|          White | `#585858` |
-|   Bright White | `#282828` |
-
-#### Black
-
-|           Name | Hex       |
-| -------------: | --------- |
-|     Foreground | `#d8d8d8` |
-|     Background | `#000000` |
-|          Black | `#282828` |
-|   Bright Black | `#585858` |
-|          White | `#b8b8b8` |
-|   Bright White | `#f8f8f8` |
-
-#### Cold
-
-|           Name | Hex       |
-| -------------: | --------- |
-|     Foreground | `#c8ccd4` |
-|     Background | `#12121e` |
-|          Black | `#1e2337` |
-|   Bright Black | `#565d6c` |
-|          White | `#abb2bf` |
-|   Bright White | `#eeffff` |
-
-#### Wark
-
-|           Name | Hex       |
-| -------------: | --------- |
-|     Foreground | `#d4cfc7` |
-|     Background | `#1c1b19` |
-|          Black | `#33302b` |
-|   Bright Black | `#6b6966` |
-|          White | `#bfb9ac` |
-|   Bright White | `#fff9ed` |
+| Name       | Dark      | Light     | Black     | Cold      | Warm      | Paper     |
+| ---------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| Foreground | `#d8d8d8` | `#181818` | `#d8d8d8` | `#c8ccd4` | `#d4cfc7` | `#1c1b19` |
+| Background | `#181818` | `#ffffff` | `#000000` | `#12121e` | `#1c1b19` | `#fce8c3` |
+| Black      | `#282828` | `#e8e8e8` | `#282828` | `#1e2337` | `#33302b` | `#fff9ed` |
+| Gray       | `#585858` | `#b8b8b8` | `#585858` | `#565d6c` | `#6b6966` | `#bfb9ac` |
+| Grey       | `#b8b8b8` | `#585858` | `#b8b8b8` | `#abb2bf` | `#bfb9ac` | `#6b6966` |
+| White      | `#f8f8f8` | `#282828` | `#f8f8f8` | `#eeffff` | `#fff9ed` | `#33302b` |
 
 ### Hue
 
-|           Name | Hex       |
-| -------------: | --------- |
-|            Red | `#de5d5d` |
-|     Bright Red | `#fa7883` |
-|         Yellow | `#ff9470` |
-|  Bright Yellow | `#ffc387` |
-|          Green | `#82a85d` |
-|   Bright Green | `#98c379` |
-|           Cyan | `#64b5a7` |
-|    Bright Cyan | `#8af5ff` |
-|           Blue | `#629bd9` |
-|    Bright Blue | `#6bb8ff` |
-|        Magenta | `#d173c3` |
-| Bright Magenta | `#e799ff` |
+| Name    | Dark      | Normal    | Bright    |
+| ------- | --------- | --------- | --------- |
+| Red     | `#TODO__` | `#de5d5d` | `#fa7883` |
+| Yellow  | `#TODO__` | `#ff9470` | `#ffc387` |
+| Green   | `#TODO__` | `#82a85d` | `#98c379` |
+| Cyan    | `#TODO__` | `#64b5a7` | `#8af5ff` |
+| Blue    | `#TODO__` | `#629bd9` | `#6bb8ff` |
+| Magenta | `#TODO__` | `#d173c3` | `#e799ff` |
