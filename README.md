@@ -1,21 +1,21 @@
 ### Mono
 
-| Name       | Dark      | Light     | Black     | Cold      | Warm      | Paper     |
-| ---------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| Foreground | `#d8d8d8` | `#181818` | `#d8d8d8` | `#c8ccd4` | `#d4cfc7` | `#1c1b19` |
-| Background | `#181818` | `#ffffff` | `#000000` | `#12121e` | `#1c1b19` | `#fce8c3` |
-| Black      | `#282828` | `#e8e8e8` | `#282828` | `#1e2337` | `#33302b` | `#fff9ed` |
-| Gray       | `#585858` | `#b8b8b8` | `#585858` | `#565d6c` | `#6b6966` | `#bfb9ac` |
-| Grey       | `#b8b8b8` | `#585858` | `#b8b8b8` | `#abb2bf` | `#bfb9ac` | `#6b6966` |
-| White      | `#f8f8f8` | `#282828` | `#f8f8f8` | `#eeffff` | `#fff9ed` | `#33302b` |
+| Name       | Dark                                                     | Light                                                    | Black                                                    | Cold                                                     | Warm                                                     | Paper                                                    |
+| ---------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Foreground | ![](https://place-hold.it/16x16/d8d8d8?text=+) `#d8d8d8` | ![](https://place-hold.it/16x16/181818?text=+) `#181818` | ![](https://place-hold.it/16x16/d8d8d8?text=+) `#d8d8d8` | ![](https://place-hold.it/16x16/c8ccd4?text=+) `#c8ccd4` | ![](https://place-hold.it/16x16/d4cfc7?text=+) `#d4cfc7` | ![](https://place-hold.it/16x16/1c1b19?text=+) `#1c1b19` |
+| Background | ![](https://place-hold.it/16x16/181818?text=+) `#181818` | ![](https://place-hold.it/16x16/ffffff?text=+) `#ffffff` | ![](https://place-hold.it/16x16/000000?text=+) `#000000` | ![](https://place-hold.it/16x16/12121e?text=+) `#12121e` | ![](https://place-hold.it/16x16/1c1b19?text=+) `#1c1b19` | ![](https://place-hold.it/16x16/fce8c3?text=+) `#fce8c3` |
+| Black      | ![](https://place-hold.it/16x16/282828?text=+) `#282828` | ![](https://place-hold.it/16x16/e8e8e8?text=+) `#e8e8e8` | ![](https://place-hold.it/16x16/282828?text=+) `#282828` | ![](https://place-hold.it/16x16/1e2337?text=+) `#1e2337` | ![](https://place-hold.it/16x16/33302b?text=+) `#33302b` | ![](https://place-hold.it/16x16/fff9ed?text=+) `#fff9ed` |
+| Gray       | ![](https://place-hold.it/16x16/585858?text=+) `#585858` | ![](https://place-hold.it/16x16/b8b8b8?text=+) `#b8b8b8` | ![](https://place-hold.it/16x16/585858?text=+) `#585858` | ![](https://place-hold.it/16x16/565d6c?text=+) `#565d6c` | ![](https://place-hold.it/16x16/6b6966?text=+) `#6b6966` | ![](https://place-hold.it/16x16/bfb9ac?text=+) `#bfb9ac` |
+| Grey       | ![](https://place-hold.it/16x16/b8b8b8?text=+) `#b8b8b8` | ![](https://place-hold.it/16x16/585858?text=+) `#585858` | ![](https://place-hold.it/16x16/b8b8b8?text=+) `#b8b8b8` | ![](https://place-hold.it/16x16/abb2bf?text=+) `#abb2bf` | ![](https://place-hold.it/16x16/bfb9ac?text=+) `#bfb9ac` | ![](https://place-hold.it/16x16/6b6966?text=+) `#6b6966` |
+| White      | ![](https://place-hold.it/16x16/f8f8f8?text=+) `#f8f8f8` | ![](https://place-hold.it/16x16/282828?text=+) `#282828` | ![](https://place-hold.it/16x16/f8f8f8?text=+) `#f8f8f8` | ![](https://place-hold.it/16x16/eeffff?text=+) `#eeffff` | ![](https://place-hold.it/16x16/fff9ed?text=+) `#fff9ed` | ![](https://place-hold.it/16x16/33302b?text=+) `#33302b` |
 
 ### Hue
 
-| Name    | Dark      | Normal    | Bright    |
-| ------- | --------- | --------- | --------- |
-| Red     | `#TODO__` | `#de5d5d` | `#fa7883` |
-| Yellow  | `#TODO__` | `#ff9470` | `#ffc387` |
-| Green   | `#TODO__` | `#82a85d` | `#98c379` |
-| Cyan    | `#TODO__` | `#64b5a7` | `#8af5ff` |
-| Blue    | `#TODO__` | `#629bd9` | `#6bb8ff` |
-| Magenta | `#TODO__` | `#d173c3` | `#e799ff` |
+| Name    | Dark                                                     | Normal                                                   | Bright                                                   |
+| ------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Red     | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/de5d5d?text=+) `#de5d5d` | ![](https://place-hold.it/16x16/fa7883?text=+) `#fa7883` |
+| Yellow  | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/ff9470?text=+) `#ff9470` | ![](https://place-hold.it/16x16/ffc387?text=+) `#ffc387` |
+| Green   | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/82a85d?text=+) `#82a85d` | ![](https://place-hold.it/16x16/98c379?text=+) `#98c379` |
+| Cyan    | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/64b5a7?text=+) `#64b5a7` | ![](https://place-hold.it/16x16/8af5ff?text=+) `#8af5ff` |
+| Blue    | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/629bd9?text=+) `#629bd9` | ![](https://place-hold.it/16x16/6bb8ff?text=+) `#6bb8ff` |
+| Magenta | ![](https://place-hold.it/16x16/000000?text=+) `#TODO__` | ![](https://place-hold.it/16x16/d173c3?text=+) `#d173c3` | ![](https://place-hold.it/16x16/e799ff?text=+) `#e799ff` |
