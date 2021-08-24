@@ -1,18 +1,27 @@
 <h1 align="center"><i>Base One</i></h1>
 <p align="center">A vibrant and harmony color scheme</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/130653540-42c929d9-4eb6-467b-a07d-d94f3da23c51.png"></p>
+<p align="center"><img src=""></p>
 <p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <!-- <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a> --></p>
 
 ## 💡 About
 **Base One** is a vibrant and harmony color scheme, a prefect blend between [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
+`#TODO`
 
 ### ✨ Features
+`#TODO`
+- vibrant and harmony
+- ez and disti
+- rich name
+- variants
 
 ## 🎨 Palette
+`#TODO`
+
+<p align="center"><a href="#TODO"><img src="https://user-images.githubusercontent.com/43980777/130653540-42c929d9-4eb6-467b-a07d-d94f3da23c51.png"></a></p>
 
 ### 🔳 Grayscale
 
-| Name         | Light                                                      | Dark                                                       | Black                                                      | Cold                                                       | Paper                                                      |
+| Name         | Light                                                      | Dark                                                       | Black                                                      | Ocean                                                      | Paper                                                      |
 | ------------ | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Background   | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` | ![⬛](https://place-hold.it/16x16/000000?text=+) `#000000` | ![⬛](https://place-hold.it/16x16/171726?text=+) `#171726` | ![🟨](https://place-hold.it/16x16/FCE8C3?text=+) `#FCE8C3` |
 | Black        | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/22273D?text=+) `#22273D` | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` |
@@ -33,6 +42,7 @@
 | Magenta | ![🟪](https://place-hold.it/16x16/E799FF?text=+) `#E799FF` | ![🟪](https://place-hold.it/16x16/C173D1?text=+) `#C173D1` | ![🟪](https://place-hold.it/16x16/A158A1?text=+) `#A158A1` |
 
 ## 🚀 Setup
+`#TODO`
 
 ## 💌 Credits
 Special thanks to:
