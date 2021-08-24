@@ -13,9 +13,9 @@
 
 | Name    | Dark                                                     | Normal                                                   | Bright                                                   |
 | ------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| Red     | ![](https://place-hold.it/16x16/BA4E4E?text=+) `#BA4E4E` | ![](https://place-hold.it/16x16/DE5D5D?text=+) `#DE5D5D` | ![](https://place-hold.it/16x16/FA7883?text=+) `#FA7883` |
+| Red     | ![](https://place-hold.it/16x16/B3475B?text=+) `#B3475B` | ![](https://place-hold.it/16x16/DE5D5D?text=+) `#DE5D5D` | ![](https://place-hold.it/16x16/FA7883?text=+) `#FA7883` |
 | Yellow  | ![](https://place-hold.it/16x16/B3684F?text=+) `#B3684F` | ![](https://place-hold.it/16x16/FF9470?text=+) `#FF9470` | ![](https://place-hold.it/16x16/FFC387?text=+) `#FFC387` |
-| Green   | ![](https://place-hold.it/16x16/5D8549?text=+) `#5D8549` | ![](https://place-hold.it/16x16/76A85D?text=+) `#76A85D` | ![](https://place-hold.it/16x16/98C379?text=+) `#98C379` |
-| Cyan    | ![](https://place-hold.it/16x16/488278?text=+) `#488278` | ![](https://place-hold.it/16x16/64B5A7?text=+) `#64B5A7` | ![](https://place-hold.it/16x16/8AF5FF?text=+) `#8AF5FF` |
-| Blue    | ![](https://place-hold.it/16x16/5560C2?text=+) `#5560C2` | ![](https://place-hold.it/16x16/707EFF?text=+) `#707EFF` | ![](https://place-hold.it/16x16/6BB8FF?text=+) `#6BB8FF` |
-| Magenta | ![](https://place-hold.it/16x16/A15896?text=+) `#A15896` | ![](https://place-hold.it/16x16/D173C3?text=+) `#D173C3` | ![](https://place-hold.it/16x16/E799FF?text=+) `#E799FF` |
+| Green   | ![](https://place-hold.it/16x16/498553?text=+) `#498553` | ![](https://place-hold.it/16x16/76A85D?text=+) `#76A85D` | ![](https://place-hold.it/16x16/98C379?text=+) `#98C379` |
+| Cyan    | ![](https://place-hold.it/16x16/487C82?text=+) `#487C82` | ![](https://place-hold.it/16x16/64B5A7?text=+) `#64B5A7` | ![](https://place-hold.it/16x16/8AF5FF?text=+) `#8AF5FF` |
+| Blue    | ![](https://place-hold.it/16x16/5555C2?text=+) `#5555C2` | ![](https://place-hold.it/16x16/707EFF?text=+) `#707EFF` | ![](https://place-hold.it/16x16/6BB8FF?text=+) `#6BB8FF` |
+| Magenta | ![](https://place-hold.it/16x16/9558A1?text=+) `#9558A1` | ![](https://place-hold.it/16x16/D173C3?text=+) `#D173C3` | ![](https://place-hold.it/16x16/E799FF?text=+) `#E799FF` |
