@@ -1,3 +1,17 @@
+<h1 align="center"><i>Base One</i></h1>
+<p align="center">A vibrant and harmony color scheme</p>
+<p align="center"><img src=""></p>
+<p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a></p>
+
+## 💡 About
+**Base One** is a vibrant and harmony color scheme, a prefect blend between Base16 and Atom's One.
+
+### 📔 Story
+
+### ✨ Features
+
+## S
+
 ### Mono
 
 | Name       | Light                                                    | Dark                                                     | Black                                                    | Cold                                                     | Paper                                                    |
@@ -19,3 +33,17 @@
 | Cyan    | ![](https://place-hold.it/16x16/487C82?text=+) `#487C82` | ![](https://place-hold.it/16x16/64B5A7?text=+) `#64B5A7` | ![](https://place-hold.it/16x16/8AF5FF?text=+) `#8AF5FF` |
 | Blue    | ![](https://place-hold.it/16x16/5555C2?text=+) `#5555C2` | ![](https://place-hold.it/16x16/707EFF?text=+) `#707EFF` | ![](https://place-hold.it/16x16/6BB8FF?text=+) `#6BB8FF` |
 | Magenta | ![](https://place-hold.it/16x16/9558A1?text=+) `#9558A1` | ![](https://place-hold.it/16x16/D173C3?text=+) `#D173C3` | ![](https://place-hold.it/16x16/E799FF?text=+) `#E799FF` |
+
+## 🚀 Setup
+
+## 💌 Credits
+Special thanks to:
+- [****]() by []()
+
+<br><br><br><br>
+
+---
+
+> <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
+>
+> <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
