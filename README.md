@@ -8,7 +8,7 @@
 
 ### ✨ Features
 
-## ℹ️ Specifications
+## 🎨 Palette
 
 ### 🔳 Grayscale
 
@@ -21,7 +21,7 @@
 | Bright White | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` |
 | Foreground   | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` | ![⬜](https://place-hold.it/16x16/D8D8D8?text=+) `#D8D8D8` | ![⬜](https://place-hold.it/16x16/D8D8D8?text=+) `#D8D8D8` | ![⬜](https://place-hold.it/16x16/D8D8D8?text=+) `#D8D8D8` | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` |
 
-### 🎨 Palette
+### 🏳️‍🌈 Hue
 
 | Name    | Dark                                                       | Normal                                                     | Bright                                                     |
 | ------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
