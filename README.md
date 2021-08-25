@@ -1,25 +1,29 @@
 <h1 align="center"><i>Base One</i></h1>
-<p align="center">A vibrant and harmony color scheme</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/130713422-5dfb49cd-f98e-45fa-94f9-f6f0ca6db7aa.png"></p>
-<p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <!-- <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a> --></p>
+<p align="center">A vibrant harmony color scheme</p>
+<p align="center"><img src=""></p>
+<p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
-**Base One** is a vibrant and harmony color scheme, a prefect blend between [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
-`#TODO`
+**Base One** is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
 
 ### ✨ Features
-`#TODO`
-- vibrant and harmony
-- ez and disti
-- rich name
-- variants
+- Colors are very vibrant and distinct.
+- But still maintain a pleasant harmony.
+- Design to work with terminal, meaning all accents tone have normal and bright colors.
+- Includes most of the colors you ever need:
+  > *Base One has ![🟧](https://place-hold.it/16x16/FF9470?text=+) Orange, ![🟫](https://place-hold.it/16x16/B3684F?text=+) Brown, ![🟪](https://place-hold.it/16x16/5555C2?text=+) Purple when most of the color schemes out there are lacking them.*
+- Base One has many variations:
+  - Basic *Light* and *Dark* theme.
+  - *Black* theme for a truly pitch black background.
+  - *Ocean* theme for a bluish aesthetic.
+  - *Paper* theme is a light theme with tin background.
 
 ## 🎨 Palette
-`#TODO`
+Here is a [DawnBringer palette analysis](https://lospec.com/palettes/dawnbringer-palette-analyser):
 
 <p align="center"><a href="https://lospec.com/i/82yh"><img src="https://user-images.githubusercontent.com/43980777/130712592-8aca13eb-4ddb-45e3-b4a2-eb7629a3e4dc.png"></a></p>
 
-### 🔳 Grayscale
+### 🔳 Content tones
 
 | Name         | Light                                                      | Dark                                                       | Black                                                      | Ocean                                                      | Paper                                                      |
 | ------------ | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
@@ -30,7 +34,7 @@
 | Bright White | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` |
 | Foreground   | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` |
 
-### 🏳️‍🌈 Hue
+### 🌈 Accent tones
 
 | Name    | Bright                                                     | Normal                                                     | Dark                                                       |
 | ------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
@@ -40,6 +44,10 @@
 | Cyan    | ![🟦](https://place-hold.it/16x16/8AF5FF?text=+) `#8AF5FF` | ![🟦](https://place-hold.it/16x16/64B5A7?text=+) `#64B5A7` | ![🟦](https://place-hold.it/16x16/4C988B?text=+) `#4C988B` |
 | Blue    | ![🟦](https://place-hold.it/16x16/6BB8FF?text=+) `#6BB8FF` | ![🟦](https://place-hold.it/16x16/5890F8?text=+) `#5890F8` | ![🟦](https://place-hold.it/16x16/5555C2?text=+) `#5555C2` |
 | Magenta | ![🟪](https://place-hold.it/16x16/E799FF?text=+) `#E799FF` | ![🟪](https://place-hold.it/16x16/C173D1?text=+) `#C173D1` | ![🟪](https://place-hold.it/16x16/A158A1?text=+) `#A158A1` |
+
+> *In darker schemes (Dark, Black and Ocean), it will use normal colors as main group (normal terminal colors) and bright colors as secondary group (bright terminal colors).*
+>
+> *In lighter schemes (Light and Paper), it will use dark colors as main group (normal terminal colors) and normal colors as secondary group (bright terminal colors).*
 
 ## 🚀 Setup
 `#TODO`
