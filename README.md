@@ -1,6 +1,6 @@
 <h1 align="center"><i>Base One</i></h1>
 <p align="center">A vibrant and harmony color scheme</p>
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/130713422-5dfb49cd-f98e-45fa-94f9-f6f0ca6db7aa.png"></p>
 <p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <!-- <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a> --></p>
 
 ## 💡 About
