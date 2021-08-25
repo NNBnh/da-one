@@ -1,7 +1,7 @@
 <h1 align="center"><i>Base One</i></h1>
 <p align="center">A vibrant harmony color scheme</p>
-<p align="center"><img src=""></p>
-<p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23FFC387.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/130759405-d6e774e6-ce86-4549-8b9e-39e1226edf70.png"></p>
+<p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
 **Base One** is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
@@ -11,11 +11,11 @@
 - But still maintain a pleasant harmony.
 - Design to work with terminal, meaning all accents tone have normal and bright colors.
 - Includes most of the colors you ever need:
-  > *Base One has ![🟧](https://place-hold.it/16x16/FF9470?text=+) Orange, ![🟫](https://place-hold.it/16x16/B3684F?text=+) Brown, ![🟪](https://place-hold.it/16x16/5555C2?text=+) Purple when most of the color schemes out there are lacking them.*
-- Base One has many variations:
+  > *Base One has ![🟧](https://place-hold.it/12x12/FF9470?text=+) Orange, ![🟫](https://place-hold.it/12x12/B3684F?text=+) Brown, ![🟪](https://place-hold.it/12x12/5555C2?text=+) Purple when most of the color schemes out there are lacking them.*
+- Has many variations:
   - Basic *Light* and *Dark* theme.
   - *Black* theme for a truly pitch black background.
-  - *Ocean* theme for a bluish aesthetic.
+  - *Ocean* theme with a bluish aesthetic.
   - *Paper* theme is a light theme with tin background.
 
 ## 🎨 Palette
