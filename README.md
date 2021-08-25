@@ -17,17 +17,17 @@
 ## 🎨 Palette
 `#TODO`
 
-<p align="center"><a href="#TODO"><img src="https://user-images.githubusercontent.com/43980777/130653540-42c929d9-4eb6-467b-a07d-d94f3da23c51.png"></a></p>
+<p align="center"><a href="https://lospec.com/i/82yh"><img src="https://user-images.githubusercontent.com/43980777/130712592-8aca13eb-4ddb-45e3-b4a2-eb7629a3e4dc.png"></a></p>
 
 ### 🔳 Grayscale
 
 | Name         | Light                                                      | Dark                                                       | Black                                                      | Ocean                                                      | Paper                                                      |
 | ------------ | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
 | Background   | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` | ![⬛](https://place-hold.it/16x16/000000?text=+) `#000000` | ![⬛](https://place-hold.it/16x16/171726?text=+) `#171726` | ![🟨](https://place-hold.it/16x16/FCE8C3?text=+) `#FCE8C3` |
-| Black        | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/22273D?text=+) `#22273D` | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` |
+| Black        | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬛](https://place-hold.it/16x16/22273D?text=+) `#22273D` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` |
 | Bright Black | ![⬜](https://place-hold.it/16x16/888888?text=+) `#888888` | ![⬛](https://place-hold.it/16x16/585858?text=+) `#585858` | ![⬛](https://place-hold.it/16x16/585858?text=+) `#585858` | ![⬛](https://place-hold.it/16x16/525866?text=+) `#525866` | ![⬜](https://place-hold.it/16x16/888888?text=+) `#888888` |
 | White        | ![⬛](https://place-hold.it/16x16/585858?text=+) `#585858` | ![⬜](https://place-hold.it/16x16/888888?text=+) `#888888` | ![⬜](https://place-hold.it/16x16/888888?text=+) `#888888` | ![⬜](https://place-hold.it/16x16/878D96?text=+) `#878D96` | ![⬛](https://place-hold.it/16x16/585858?text=+) `#585858` |
-| Bright White | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` | ![⬜](https://place-hold.it/16x16/B8B8B8?text=+) `#B8B8B8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` |
+| Bright White | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬜](https://place-hold.it/16x16/C8C8C8?text=+) `#C8C8C8` | ![⬛](https://place-hold.it/16x16/282828?text=+) `#282828` |
 | Foreground   | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬜](https://place-hold.it/16x16/FFFFFF?text=+) `#FFFFFF` | ![⬛](https://place-hold.it/16x16/181818?text=+) `#181818` |
 
 ### 🏳️‍🌈 Hue
