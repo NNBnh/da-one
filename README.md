@@ -4,7 +4,9 @@
 <p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
-**Da One** is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Gray](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
+**Da One** is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
+
+`#TODO` preview
 
 ### ✨ Features
 - Colors are very vibrant and distinct.
@@ -52,12 +54,20 @@ Here is a [DawnBringer palette analysis](https://lospec.com/palettes/dawnbringer
 > | Syntax highlight       | Bright accent tones                    | Normal accent tones               |
 
 ## 🚀 Setup
-`#TODO`
+### 📟 Terminal
+1. Copy every things inside the `da-one-THEME.Xresources` file on this repo.
+
+2. Go to [`terminal.sexy`](https://terminal.sexy) and paste it to the **Import** tab (with Xresources format) then import it.
+
+3. Switch to **Export** tab, choose your terminal's format then export it.
+
+### 🚥 Base16
+For other applications and environments, check out [Da One Base16](https://github.com/NNBnh/base16-da-one-schemes).
 
 ## 💌 Credits
 Special thanks to:
 - [**Base16 Default**](https://github.com/chriskempson/base16-default-schemes) by [Chris Kempson](https://github.com/chriskempson)
-- [**One Gray**](https://github.com/atom/atom/tree/master/packages/one-dark-syntax) from [Atom](https://atom.io)
+- [**One Dark**](https://github.com/atom/atom/tree/master/packages/one-dark-syntax) from [Atom](https://atom.io)
 
 <br><br><br><br>
 
