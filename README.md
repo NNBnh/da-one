@@ -1,6 +1,6 @@
 <h1 align="center"><i>Da One</i></h1>
-<p align="center">A vibrant harmony color scheme</p>
-<p align="center"><img src="https://user-images.githubusercontent.com/43980777/130759405-d6e774e6-ce86-4549-8b9e-39e1226edf70.png"></p>
+<p align="center">Da one color scheme that you alway looking for</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/43980777/131148830-0c7e501c-7601-4321-826e-f4b199675c60.png"></p>
 <p align="center"><a href="https://github.com/NNBnh/baseone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-gpl--3.0-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="License: GPL-3.0"></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%236BB8FF.svg?labelColor=525866&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
@@ -14,14 +14,14 @@
   > *Da One has ![🟧](https://place-hold.it/12x12/FF9470?text=+) Orange, ![🟫](https://place-hold.it/12x12/B3684F?text=+) Brown, ![🟪](https://place-hold.it/12x12/5555C2?text=+) Purple when most of the color schemes out there are lacking them.*
 - Has many variations:
   - Basic *Black* and *White* theme.
-  - *Gray* theme is a Black theme with gray background.
-  - *Paper* theme is a White theme with tin background.
-  - *Ocean* theme is like is a Black theme with a bluish aesthetic.
+  - *Gray* theme is Black theme with gray background.
+  - *Paper* theme is White theme with sepia background.
+  - *Ocean* theme is like Black theme but with a bluish aesthetic.
 
 ## 🎨 Palette
 Here is a [DawnBringer palette analysis](https://lospec.com/palettes/dawnbringer-palette-analyser):
 
-<p align="center"><a href="https://lospec.com/i/82yh"><img src="https://user-images.githubusercontent.com/43980777/130712592-8aca13eb-4ddb-45e3-b4a2-eb7629a3e4dc.png"></a></p>
+<p align="center"><a href="https://lospec.com/i/5hh8"><img src="https://user-images.githubusercontent.com/43980777/131148747-590f48ce-292d-4f36-a5f5-bfff4118577a.png"></a></p>
 
 ### 🔳 Content tones
 
