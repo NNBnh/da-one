@@ -6,7 +6,7 @@
 ## 💡 About
 **Da One** is a vibrant and harmony color scheme inspired by [Base16 Default](https://github.com/chriskempson/base16-default-schemes) and [One Dark](https://github.com/atom/atom/tree/master/packages/one-dark-syntax).
 
-`#TODO` preview
+![Preview](https://user-images.githubusercontent.com/43980777/147735013-e3a7be1c-7757-4392-9729-f612c1cef5ac.png)
 
 ### ✨ Features
 - Colors are very vibrant and distinct.
