@@ -8,6 +8,33 @@
 
 ![Preview](https://user-images.githubusercontent.com/43980777/147735385-a845ec33-4309-426e-b2c7-27c50d540920.png)
 
+<details>
+<summary><b>Try out</b></summary>
+<br>
+
+```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-white.cat
+```
+
+```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-gray.cat
+```
+
+```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-black.cat
+```
+
+```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-ocean.cat
+```
+
+```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-paper.cat
+```
+
+<br>
+</details>
+
 ### ✨ Features
 - Colors are very vibrant and distinct.
 - But still maintain a pleasant harmony.
