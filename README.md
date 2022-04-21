@@ -29,6 +29,10 @@ curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-ocean.cat
 ```
 
 ```sh
+curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-sea.cat
+```
+
+```sh
 curl https://raw.githubusercontent.com/NNBnh/da-one/main/da-one-paper.cat
 ```
 
